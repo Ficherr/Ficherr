@@ -2,7 +2,7 @@
 
 
 - 🔭 Procuro minha 1° Oportunidade na área da programação.
-- 🌱 Analise e Desenvolvimento de Sistemas "2° semestre"
+- 🌱 Analise e Desenvolvimento de Sistemas "3° semestre"
 - 📫 costardr@gmail.com
 
 <h2>Redes Sociais</h2>
